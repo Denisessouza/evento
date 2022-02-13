@@ -1,7 +1,10 @@
-Exercício da UC8 - Lógica de Programação
-- Cadastro de Eventos 
-Sistema simples que verifica: 
+## Cadastro no evento ##
+***
+
+**_Exercício da UC8 - Lógica de Programação_**<br>
+ 
+**Sistema simples que verifica:**<br>
 - Idade do Participante
-- Disponíbilidade da data do evento
+- Disponíbilidade para se cadastrar no evento
 - Exibição da lista de participantes
 
