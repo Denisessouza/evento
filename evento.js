@@ -1,8 +1,10 @@
-let idadeCadastro =18
-if(idadeCadastro => 18) {
-    console.log("Efetue seu cadastro")
+let anoAtual= 2021
+let anoNascimento= 1982
+
+if(anoAtual-anoNascimento < 18) {
+    console.log("Menor de 18 anos - Cadastro não permitido")
 } else {
-    console.log("Somente Maiores de 18 anos")
+    console.log("Prossiga com o cadastro")
 }
 
 let dataEvento = new Date ('03/12/2022')
@@ -25,3 +27,4 @@ if (listaInscritos > 4) {
 for (let contador =0; contador < listaInscritos.length; contador++) {
     console.log(`Participante: ${listaInscritos[contador]}`)
 }
+
